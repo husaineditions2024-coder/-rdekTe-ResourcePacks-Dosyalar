@@ -1,0 +1,37 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rdekte_resource_pack",
+    "modName": "ÖrdekTe Resource Pack",
+    "version": "1.0.0",
+    "description": "Created Special For OrdekTe By AizOf",
+    "author": "AizOf",
+    "websiteURL": "https://stratlearning.dpdns.org",
+    "license": "Ace3 Style BSD",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "resourcepack-1.21.1",
+    "credits": "java 17",
+    "modElementsPackage": "net.mcreator.rdekteresourcepack"
+  },
+  "mcreatorVersion": 202500345720
+}
